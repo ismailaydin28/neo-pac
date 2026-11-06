@@ -1,0 +1,24 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Runtime state belonging to the local player
+profile.json
+profile.json.tmp
+logs/
+
+# Test and coverage output
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
