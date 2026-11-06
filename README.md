@@ -355,3 +355,7 @@ The loader falls back safely when JSON cannot be parsed. Keep a copy of `ai_memo
 - The bundled AI memory is versioned because it is part of the shipped gameplay behavior.
 - New gameplay systems should include a focused module, a separate rotating log when stateful, and at least one regression or integration test.
 
+## License
+
+NeoPac is released under the [MIT License](LICENSE). You may use, modify, and
+redistribute the project as long as the copyright and license notice are kept.

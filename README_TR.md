@@ -355,3 +355,7 @@ JSON okunamazsa yükleyici güvenli biçimde boş/varsayılan tabloya döner. E�
 - Paketlenmiş AI belleği oyun davranışının parçası olduğu için sürüm kontrolündedir.
 - Yeni oyun sistemlerinin ayrı modül, durum tutuyorsa ayrı dönen log ve en az bir regresyon/entegrasyon testi içermesi önerilir.
 
+## Lisans
+
+NeoPac [MIT Lisansı](LICENSE) ile yayımlanır. Telif ve lisans bildirimi korunduğu
+sürece proje kullanılabilir, değiştirilebilir ve yeniden dağıtılabilir.
